@@ -6,11 +6,6 @@ Welcome to my GitHub profile! I'm new to GitHub and I'm excited to use this plat
 - 🌱 I'm currently learning all about open-source contributions and best coding practices.
 - 💼 I'm looking to collaborate on interesting projects and grow my skills.
 
-## 📂 My Projects
-Here are some of the projects I've been working on:
-
-
-
 ## 📫 How to Reach Me
 - **Email**: emilyvaitsi@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/aimilia-vaitsi-011bb314a/
