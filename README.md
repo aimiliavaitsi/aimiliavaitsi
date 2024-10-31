@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm new to GitHub and I'm excited to use this plat
 
 ## 🚀 About Me
 🌱 I'm a psychology research enthusiast, currently working on projects related to psychology and workplace trust, contributing to innovative initiatives.
+
 📊 I'm learning new skills like Power BI and Python and applying them to my projects.
 
 ## 📫 How to Reach Me
