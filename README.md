@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm new to GitHub and I'm excited to use this plat
 🌱 I'm a psychology research enthusiast, currently working on projects related to psychology and workplace trust, contributing to innovative initiatives.
 
 ## 📫 How to Reach Me
+- **Website**: https://aimiliavaitsi.wordpress.com/
 - **Email**: emilyvaitsi@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/aimilia-vaitsi-011bb314a/
 
