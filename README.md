@@ -3,9 +3,10 @@
 Welcome to my GitHub profile! I'm new to GitHub and I'm excited to use this platform as a portfolio to showcase my projects and skills. Here's a little bit about me:
 
 ## 🚀 About Me
-🌱 I'm a psychology research enthusiast, currently working on projects related to psychology and workplace trust, contributing to innovative initiatives.
 
-📊 I'm learning new skills like Power BI and Python and applying them to my projects.
+📊 I'm currently working as a Data Analyst on Power BI projects, constantly learning new Power BI tricks and advancing my skills in storytelling.
+
+🌱 I'm a psychology research enthusiast, currently working on projects related to psychology and workplace trust, contributing to innovative initiatives.
 
 ## 📫 How to Reach Me
 - **Email**: emilyvaitsi@gmail.com
